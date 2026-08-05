@@ -35,4 +35,4 @@ I am a Software Development student at **ISTEC Porto** and currently a Web Devel
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-```
+

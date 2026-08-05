@@ -1,7 +1,7 @@
 # Hi there, I'm Guilherme Ribeiro! 👋
 
 ### 🚀 About Me
-I am a Software Development student at **ISTEC Porto** and currently a Web Development Intern at **Helpdesk Público**. Based in Porto, Portugal.
+I am a Junior Software Developer based in Porto, Portugal, recently graduated with a **CTeSP in Software Development from ISTEC Porto**.
 
 * 🎓 Software Development student at ISTEC Porto
 * 💼 Currently an Intern at Helpdesk Público, focusing on web Development.
@@ -28,11 +28,6 @@ I am a Software Development student at **ISTEC Porto** and currently a Web Devel
 
 ### 📬 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-ribeiro-996227318/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:TEU-EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/guilherme-ribeiro-996227318/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" align="center" /></a>
+  <a href="mailto:TEU-EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" /></a>
 </p>
-
